@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=wsiarchive.IItemList\ toWSIItemList()
+comment1.params=archive
+comment1.target=IPutResultList\ putAll(IArchive)
+numComments=2

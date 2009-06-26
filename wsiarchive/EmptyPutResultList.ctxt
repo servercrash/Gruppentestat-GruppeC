@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EmptyPutResultList()
+comment1.target=myarchive.IPutResultList\ toMyPutResultList()
+comment2.target=yourarchive.IPutResultList\ toYourPutResultList()
+numComments=3

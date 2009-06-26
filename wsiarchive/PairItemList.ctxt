@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=first\ rest
+comment0.target=PairItemList(Item,\ IItemList)
+comment1.target=Item\ getFirst()
+comment2.target=IItemList\ getRest()
+comment3.target=myarchive.IItemList\ toMyItemList()
+comment4.target=yourarchive.IItemList\ toYourItemList()
+comment5.params=archive
+comment5.target=IPutResultList\ putAll(IArchive)
+numComments=6

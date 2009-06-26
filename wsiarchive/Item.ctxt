@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=contents\ size
+comment0.target=Item(String,\ int)
+comment1.target=String\ getContents()
+comment2.target=int\ getSize()
+numComments=3

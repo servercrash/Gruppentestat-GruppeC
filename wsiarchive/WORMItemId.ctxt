@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=WORMItemId()
+comment1.params=other
+comment1.target=boolean\ same(IItemId)
+numComments=2

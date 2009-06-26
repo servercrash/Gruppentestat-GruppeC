@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=first\ rest
+comment0.target=PairPutResultList(IPutResult,\ IPutResultList)
+comment1.target=IPutResult\ getFirst()
+comment2.target=IPutResultList\ getRest()
+comment3.target=wsiarchive.IPutResultList\ toWSIPutResultList()
+numComments=4

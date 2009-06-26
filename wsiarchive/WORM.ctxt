@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=WORM(String)
+comment1.target=String\ getName()
+comment2.params=item
+comment2.target=IPutResult\ put(Item)
+comment3.params=items
+comment3.target=IPutResultList\ putMultiple(IItemList)
+comment4.params=id
+comment4.target=IGetResult\ get(IItemId)
+numComments=5

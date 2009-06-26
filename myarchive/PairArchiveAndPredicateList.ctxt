@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=predicate\ archive\ rest
+comment0.target=PairArchiveAndPredicateList(IItemPredicate,\ IArchive,\ IArchiveAndPredicateList)
+numComments=1

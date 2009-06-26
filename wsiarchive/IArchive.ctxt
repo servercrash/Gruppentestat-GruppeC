@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=String\ getName()
+comment1.params=item
+comment1.target=IPutResult\ put(Item)
+comment2.params=items
+comment2.target=IPutResultList\ putMultiple(IItemList)
+comment3.params=id
+comment3.target=IGetResult\ get(IItemId)
+numComments=4

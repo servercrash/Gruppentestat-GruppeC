@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=OKPutResult(IItemId)
+comment1.target=IItemId\ getId()
+numComments=2
